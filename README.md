@@ -21,7 +21,7 @@
 
 ```yaml
 name: Ankit Tripathi
-role: AI Architect & ML Engineer
+role: AI Architect & ML/DL Engineer
 location: Mumbai, India
 focus: Scalable AI Solutions for Startups
 specialization: Voice AI & Lead Management Systems
@@ -196,9 +196,6 @@ experience: 1+ years
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack |
 |:-----------|:---------------|:---------------|
 | **AI Contact Manager** | Voice-enabled lead management system | Python, FastAPI, NLP, Voice AI |
-| **CV Ranking System** | Intelligent resume scoring platform | ML, NLP, TensorFlow, React |
-| **Expert AI Upskilling** | 7-8 month intensive learning program | Advanced ML, System Design, Cloud |
-| **MAH CET Preparation** | Data analysis & logical reasoning tools | Python, Analytics, Visualization |
 
 </div>
 
