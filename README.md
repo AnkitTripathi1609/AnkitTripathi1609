@@ -20,25 +20,25 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```yaml
-name: Ankit Tripathi
-role: AI Architect & ML/DL Engineer
-location: Mumbai, India
-focus: Scalable AI Solutions for Startups
-specialization: Voice AI & Lead Management Systems
-experience: 1+ years
+Name: Ankit Tripathi
+Role: AI Architect & ML/DL Engineer
+Location: Mumbai, India
+Focus: Building scalable, production-ready AI solutions for startups and enterprises
+Expertise: Specializing in the development and deployment of LLM/ML models and the creation of end-to-end SaaS platforms for multiple domains
+Experience: 4+ years of hands-on industry experience in applied AI and machine learning
 ```
 
-🚀 **Passionate** about applying advanced machine learning and voice technologies to solve real-world business problems
+🚀 Driven by a passion for leveraging advanced ML, LLM, and voice technologies to solve real-world problems
 
-🎯 **Currently upskilling** in expert-level AI architectures, conversational AI, and product development
+🎯 Actively upskilling in cutting-edge AI architectures, conversational AI systems, and full-cycle product development
 
-🤝 **Open to collaborations** on AI, ML, and system design projects
+🤝 Open to collaborations on AI/ML engineering, system design, and scalable product builds
 
-📚 **Actively learning** state-of-the-art deep learning frameworks and strategic planning
+📚 Continuously learning modern deep learning frameworks, architectural best practices, and strategic AI planning
 
-💬 **Let's connect** about AI product design, startup business models, and tech innovation
+💬 Let’s connect if you're exploring AI product design, technical innovation, or startup-focused solutions
 
-✨ **Fun fact:** I combine startup hustle and AI expertise to architect solutions that scale!
+✨ Fun fact: I blend startup agility with AI expertise to build solutions that truly scale!
 
 <br clear="both">
 
@@ -141,18 +141,22 @@ experience: 1+ years
 
 ---
 
-## 💼 Professional Focus Areas
+## ✅ Expertise Portfolio & Projects worked on
 
 <div align="center">
+  
+| 🎯 **Domain**                        | 💡 **Core Expertise**                                                                                                | 🚀 **Current Focus** |
+| :----------------------------------- | :------------------------------------------------------------------------------------------------------------------- | :------------------- |
+| **AI Architecture**                  | System design, MLOps pipelines, model lifecycle optimization                                                         | 🔥 Actively Building |
+| **Voice & Conversational AI**        | Speech recognition, multilingual NLP, dialogue systems                                                               | 🔥 Actively Building |
+| **AI-Enabled HRMS with ERP**         | Automated workflows, CV analysis, multilingual AI interviews, AI test assessments, attendance & payroll, ERP modules | 🔥 Actively Building |
+| **AI Film-Making SaaS**              | Automated post-production, media curation, scene processing, end-to-end deliverable generation                       | 🔥 Actively Building |
+| **Computer Vision for Media**        | Fine-tuning YOLOv7/YOLOv8 models, detection pipelines, video analytics                                               | ⚡ Expanding          |
+| **Multilingual Conversation Models** | Domain-specific training data creation, workforce training assistants, industry-based AI tutors                      | ⚡ Expanding          |
+| **Startup-Focused Solutions**        | Scalable architectures, microservices, complete SaaS product development                                             | 🔥 Actively Building |
+| **Cloud & DevOps**                   | AWS/GCP/Azure, microservices, CI/CD automation                                                                       | ⚡ Rapidly Expanding  |
+| **Deep Learning & LLMs**             | Transformers, neural networks, RAG systems, computer vision                                                          | ⚡ Rapidly Expanding  |
 
-| 🎯 Domain | 💡 Expertise | 🚀 Status |
-|:----------|:-------------|:----------|
-| **AI Architecture** | System Design, MLOps, Model Optimization | 🔥 Active |
-| **Voice AI** | Conversational AI, Speech Recognition, NLP | 🔥 Active |
-| **Lead Management** | CV Ranking, Contact Systems, CRM Integration | 🔥 Active |
-| **Startup Solutions** | Scalable Architecture, Product Development | 🔥 Active |
-| **Cloud Infrastructure** | AWS/GCP/Azure, Microservices, CI/CD | ⚡ Growing |
-| **Deep Learning** | Neural Networks, Transformers, Computer Vision | ⚡ Growing |
 
 </div>
 
@@ -189,28 +193,47 @@ experience: 1+ years
 
 ---
 
-## 🎯 Current Projects & Learning Path
+## 🎯 The Path Ahead: Senior AI Architect Journey
 
 <div align="center">
 
-| 🚀 Project | 📝 Description | 🛠️ Tech Stack |
-|:-----------|:---------------|:---------------|
-| **AI Contact Manager** | Voice-enabled lead management system | Python, FastAPI, NLP, Voice AI |
+| 📌 **Skill Area**             | 🎯 **Growth Focus**                                   | 🛠️ **Key Tools**            |
+| :---------------------------- | :---------------------------------------------------- | :--------------------------- |
+| **LLM Engineering**           | Advanced fine-tuning, MoE, quantization, scaling      | HuggingFace, vLLM, PyTorch   |
+| **Multimodal AI**             | Building vision-language & speech-text pipelines      | LLaVA, Whisper, CLIP         |
+| **Computer Vision**           | High-performance detection for media & automation     | Ultralytics, ONNX, OpenCV    |
+| **Voice & Conversational AI** | Real-time ASR/TTS, multilingual conversational agents | Deepgram, Rasa, Coqui        |
+| **SaaS Architecture**         | Multi-tenant systems, event-driven design             | FastAPI, Kafka, Redis        |
+| **MLOps**                     | Production ML pipelines, monitoring, deployments      | MLflow, BentoML, Docker, K8s |
+| **Cloud & Infra**             | GPU orchestration, scalable cloud architectures       | AWS, GCP, Azure              |
+| **System Design**             | Distributed architecture, performance optimization    | DDD, design patterns         |
+| **AI Product Strategy**       | SaaS roadmap, pricing, go-to-market approaches        | Lean Canvas, SaaS frameworks |
+
+
 
 </div>
 
 ---
 
-## 💡 Recent Achievements
+## 🏆 Recent Achievements
 
 <div align="center">
 
 ```
-🎓 Mastering AI Architecture & System Design
-📚 Building Production-Grade ML Pipelines  
-💼 Developing Scalable Startup Solutions
-🚀 Contributing to Open Source AI Projects
-📊 Analyzing Complex Data for Business Intelligence
+
+Delivered AI-driven solutions across HR, media, and enterprise workflows
+
+Engineered multilingual conversational systems and automated hiring pipelines
+
+Enhanced media analytics through YOLO-based vision model fine-tuning
+
+Built an AI-powered filmmaking platform for automated post-production
+
+Designed scalable SaaS infrastructures with microservices and cloud-native patterns
+
+Implemented reliable ML pipelines with strong MLOps foundations
+
+Advanced voice AI capabilities through real-time ASR/TTS integrations
 ```
 
 </div>
